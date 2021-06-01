@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/igalVilensky/Morse-Code-App.git/static/css/main.8465c8f0.chunk.css",
-    "main.js": "/igalVilensky/Morse-Code-App.git/static/js/main.7f7a7d07.chunk.js",
-    "main.js.map": "/igalVilensky/Morse-Code-App.git/static/js/main.7f7a7d07.chunk.js.map",
+    "main.js": "/igalVilensky/Morse-Code-App.git/static/js/main.ac641ac5.chunk.js",
+    "main.js.map": "/igalVilensky/Morse-Code-App.git/static/js/main.ac641ac5.chunk.js.map",
     "runtime-main.js": "/igalVilensky/Morse-Code-App.git/static/js/runtime-main.d26ff46b.js",
     "runtime-main.js.map": "/igalVilensky/Morse-Code-App.git/static/js/runtime-main.d26ff46b.js.map",
-    "static/js/2.c695d20e.chunk.js": "/igalVilensky/Morse-Code-App.git/static/js/2.c695d20e.chunk.js",
-    "static/js/2.c695d20e.chunk.js.map": "/igalVilensky/Morse-Code-App.git/static/js/2.c695d20e.chunk.js.map",
+    "static/js/2.b07970b2.chunk.js": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js",
+    "static/js/2.b07970b2.chunk.js.map": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.map",
     "index.html": "/igalVilensky/Morse-Code-App.git/index.html",
     "static/css/main.8465c8f0.chunk.css.map": "/igalVilensky/Morse-Code-App.git/static/css/main.8465c8f0.chunk.css.map",
-    "static/js/2.c695d20e.chunk.js.LICENSE.txt": "/igalVilensky/Morse-Code-App.git/static/js/2.c695d20e.chunk.js.LICENSE.txt"
+    "static/js/2.b07970b2.chunk.js.LICENSE.txt": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d26ff46b.js",
-    "static/js/2.c695d20e.chunk.js",
+    "static/js/2.b07970b2.chunk.js",
     "static/css/main.8465c8f0.chunk.css",
-    "static/js/main.7f7a7d07.chunk.js"
+    "static/js/main.ac641ac5.chunk.js"
   ]
 }
