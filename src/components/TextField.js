@@ -64,7 +64,8 @@ function TextsField() {
   };
 
   return (
-    <div>
+    <div className="wrapper">
+      <h1>Morse Code translator</h1>
       <input
         type="text"
         placeholder="Enter your text here"
