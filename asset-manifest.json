@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/igalVilensky/Morse-Code-App.git/static/css/main.74310f64.chunk.css",
-    "main.js": "/igalVilensky/Morse-Code-App.git/static/js/main.67c9640e.chunk.js",
-    "main.js.map": "/igalVilensky/Morse-Code-App.git/static/js/main.67c9640e.chunk.js.map",
-    "runtime-main.js": "/igalVilensky/Morse-Code-App.git/static/js/runtime-main.d26ff46b.js",
-    "runtime-main.js.map": "/igalVilensky/Morse-Code-App.git/static/js/runtime-main.d26ff46b.js.map",
-    "static/js/2.b07970b2.chunk.js": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js",
-    "static/js/2.b07970b2.chunk.js.map": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.map",
-    "index.html": "/igalVilensky/Morse-Code-App.git/index.html",
-    "static/css/main.74310f64.chunk.css.map": "/igalVilensky/Morse-Code-App.git/static/css/main.74310f64.chunk.css.map",
-    "static/js/2.b07970b2.chunk.js.LICENSE.txt": "/igalVilensky/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.LICENSE.txt"
+    "main.css": "/Morse-Code-App.git/static/css/main.74310f64.chunk.css",
+    "main.js": "/Morse-Code-App.git/static/js/main.67c9640e.chunk.js",
+    "main.js.map": "/Morse-Code-App.git/static/js/main.67c9640e.chunk.js.map",
+    "runtime-main.js": "/Morse-Code-App.git/static/js/runtime-main.52ffbd2d.js",
+    "runtime-main.js.map": "/Morse-Code-App.git/static/js/runtime-main.52ffbd2d.js.map",
+    "static/js/2.b07970b2.chunk.js": "/Morse-Code-App.git/static/js/2.b07970b2.chunk.js",
+    "static/js/2.b07970b2.chunk.js.map": "/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.map",
+    "index.html": "/Morse-Code-App.git/index.html",
+    "static/css/main.74310f64.chunk.css.map": "/Morse-Code-App.git/static/css/main.74310f64.chunk.css.map",
+    "static/js/2.b07970b2.chunk.js.LICENSE.txt": "/Morse-Code-App.git/static/js/2.b07970b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d26ff46b.js",
+    "static/js/runtime-main.52ffbd2d.js",
     "static/js/2.b07970b2.chunk.js",
     "static/css/main.74310f64.chunk.css",
     "static/js/main.67c9640e.chunk.js"
